@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @3fuq.old
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python "web"
